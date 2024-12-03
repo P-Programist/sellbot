@@ -1,0 +1,1 @@
+worker: python ./aiobot/bot/main.py
